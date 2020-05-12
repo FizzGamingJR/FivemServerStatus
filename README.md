@@ -41,3 +41,5 @@ LOG_CHANNEL - channel to log status changes
 - Douile https://github.com/Douile
 - drazero https://github.com/draZer0
 - Queue script: https://github.com/anderscripts/FiveM_Queue
+
+[![Run on Repl.it](https://repl.it/badge/github/RoqueDEV/fivemserverstatus)](https://repl.it/github/RoqueDEV/fivemserverstatus)
